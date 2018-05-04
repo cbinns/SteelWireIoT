@@ -10,4 +10,4 @@ while True:
     sleep(1)
     break
     
-print("complete")
+print("completed")
